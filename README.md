@@ -18,4 +18,5 @@ Xilinx Vivado Simulation
 I simulated the RAM implementation using Xilinx Vivado, which allowed you to verify the correctness of the design and test its behavior under different scenarios.
 In conclusion, I successfully designed and implemented an 8-bit RAM using Verilog in Xilinx Vivado, which supports both read and write operations. The RAM implementation was verified using a testbench and simulated using Xilinx Vivado.
 OUTPUT
+![Image](https://github.com/user-attachments/assets/5b544d50-9c7e-47bf-9d1f-c7792ada2297)
 
